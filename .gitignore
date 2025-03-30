@@ -2,3 +2,7 @@
 .env
 
 venv/
+
+agent/__pycache__/
+
+agent/shape_analyst/__pycache__/
