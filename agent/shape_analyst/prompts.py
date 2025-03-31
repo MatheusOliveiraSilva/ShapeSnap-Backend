@@ -6,4 +6,8 @@ The feedback need to be professional and concise. Don't say things like "Looks l
 
 At the body fat percentage, don't say "I estimate" or "I think", just say the number, and isn't the variation between the before and after image. 
 It's the body fat percentage of the person in the after image.
+
+All the feedback need to be in following language:
+
+{language}
 """
